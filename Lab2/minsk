@@ -41,7 +41,7 @@ isIE6=false;
 runCore.init({
 	'host': "\/",
 	'lang': "rus",
-	'time': 1432818592,
+	'time': 1432818905,
 	'geotarget': ["0","0"],
 	'user': { 'email': "" },
 	'weathertarget': "26850",
@@ -52,7 +52,7 @@ runCore.init({
 	<!--[if lte IE 8]><script type="text/javascript">$(document).ready(function(){ document.title="\u041f\u043e\u0433\u043e\u0434\u0430 \u0432 \u041c\u0438\u043d\u0441\u043a\u0435 \u0438 \u041c\u0438\u043d\u0441\u043a\u043e\u0439 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u043d\u0430 \u043d\u0435\u0434\u0435\u043b\u044e. \u041f\u043e\u0434\u0440\u043e\u0431\u043d\u044b\u0439 \u043f\u0440\u043e\u0433\u043d\u043e\u0437 \u043f\u043e\u0433\u043e\u0434\u044b \u0432 \u041c\u0438\u043d\u0441\u043a\u0435 \u043d\u0430 3 \u0434\u043d\u044f \u0438 \u0431\u043b\u0438\u0436\u0430\u0439\u0448\u0443\u044e \u043d\u0435\u0434\u0435\u043b\u044e - POGODA.TUT.BY"; });</script><![endif]-->
 	<meta name="google-site-verification" content="f-6GnRRA7oTzx-aPcTQ546aRHeu2ynaXw64h6PhlgY8" />
 	<meta name='yandex-verification' content='4f68ca7c273dca0d' />
-	<!-- CODE[28.05.2015 12:43]: pogoda.tut.by, head -->
+	<!-- CODE[28.05.2015 12:39]: pogoda.tut.by, head -->
 <script type="text/javascript">/* <![CDATA[ */
 var pp_gemius_identifier=new String('0iIwsmMQy1eY8jlhWiyNUcQ63wiWA69Z7xwPyNAAx.X.V7');
 var pp_gemius_hitcollector='gaby1.hit.gemius.pl';
@@ -60,7 +60,7 @@ var pp_gemius_hitcollector='gaby1.hit.gemius.pl';
 
 </head><body>
 <div class="top-offer"><div class="b-prmplace b-prmplace-mn"><div class="b-prmplace-media">
-<div class="b-prmplace-desctop"><a id="banObject28706" href="http://preved.tut.by/?clickid=28706&frameid=189&keywordid=0&rnd=99048&u=017c7f3571095bef138cdc7fe6de63c1" target="_blank"><img src="http://bugaga.tut.by/28706_111.png" width="100%" height="90" border="0" alt="" title="" /></a>
+<div class="b-prmplace-desctop"><a id="banObject28706" href="http://preved.tut.by/?clickid=28706&frameid=189&keywordid=0&rnd=8682&u=3eeba756a8f6550cff900186e1fbbc3a" target="_blank"><img src="http://bugaga.tut.by/28706_111.png" width="100%" height="90" border="0" alt="" title="" /></a>
 </div><div class="b-prmplace-content"></div><div class="b-prmplace-phone"></div></div></div></div>
 <div class="outer"><div id="mainmenu" class="b-topbar"><div class="b-topbar-h"><ul class="b-topbar-i"><li class="topbar__li m-mediamin"><a id="aside_top_menu" href="" class="topbar-tablink"><i class="b-icon icon-menu"></i></a>
 <script type="text/javascript">/* <![CDATA[ */
@@ -238,7 +238,7 @@ src="//pagead2.googlesyndication.com/pagead/show_ads.js">
 <a class="b-mode-i" data-toggle="tab" href="#tab-future">Подробно</a>
 </li></ul></div>
 <div class="tab-content m-flex"><div class="b-simple tab-pane active" id="tab-simple"><table class="b-simple__t" width="100%" cellspacing="1" cellpadding="0" border="0"><tbody class="b-simple-body">
-<tr><td data-day-lite="1432904700"><a class="b-simple-bar" style="height: 100px;" href="#day-1432904700">
+<tr><td data-day-lite="1432905300"><a class="b-simple-bar" style="height: 100px;" href="#day-1432905300">
 <div class="bs-temp">
 <span class="bs-max">+17&deg;</span>
 <span class="bs-min m-media">+8&deg;</span>
@@ -247,7 +247,7 @@ src="//pagead2.googlesyndication.com/pagead/show_ads.js">
 </span>
 </a>
 </td>
-<td data-day-lite="1432991100"><a class="b-simple-bar" style="height: 120px;" href="#day-1432991100">
+<td data-day-lite="1432991700"><a class="b-simple-bar" style="height: 120px;" href="#day-1432991700">
 <div class="bs-temp">
 <span class="bs-max">+19&deg;</span>
 <span class="bs-min m-media">+8&deg;</span>
@@ -256,7 +256,7 @@ src="//pagead2.googlesyndication.com/pagead/show_ads.js">
 </span>
 </a>
 </td>
-<td data-day-lite="1433077500"><a class="b-simple-bar" style="height: 110px;" href="#day-1433077500">
+<td data-day-lite="1433078100"><a class="b-simple-bar" style="height: 110px;" href="#day-1433078100">
 <div class="bs-temp">
 <span class="bs-max">+18&deg;</span>
 <span class="bs-min m-media">+13&deg;</span>
@@ -265,7 +265,7 @@ src="//pagead2.googlesyndication.com/pagead/show_ads.js">
 </span>
 </a>
 </td>
-<td data-day-lite="1433163900"><a class="b-simple-bar" style="height: 120px;" href="#day-1433163900">
+<td data-day-lite="1433164500"><a class="b-simple-bar" style="height: 120px;" href="#day-1433164500">
 <div class="bs-temp">
 <span class="bs-max">+19&deg;</span>
 <span class="bs-min m-media">+9&deg;</span>
@@ -274,7 +274,7 @@ src="//pagead2.googlesyndication.com/pagead/show_ads.js">
 </span>
 </a>
 </td>
-<td data-day-lite="1433250300"><a class="b-simple-bar" style="height: 140px;" href="#day-1433250300">
+<td data-day-lite="1433250900"><a class="b-simple-bar" style="height: 140px;" href="#day-1433250900">
 <div class="bs-temp">
 <span class="bs-max">+21&deg;</span>
 <span class="bs-min m-media">+12&deg;</span>
@@ -283,7 +283,7 @@ src="//pagead2.googlesyndication.com/pagead/show_ads.js">
 </span>
 </a>
 </td>
-<td data-day-lite="1433336700"><a class="b-simple-bar" style="height: 150px;" href="#day-1433336700">
+<td data-day-lite="1433337300"><a class="b-simple-bar" style="height: 150px;" href="#day-1433337300">
 <div class="bs-temp">
 <span class="bs-max">+22&deg;</span>
 <span class="bs-min m-media">+14&deg;</span>
@@ -292,7 +292,7 @@ src="//pagead2.googlesyndication.com/pagead/show_ads.js">
 </span>
 </a>
 </td>
-<td data-day-lite="1433423100"><a class="b-simple-bar" style="height: 120px;" href="#day-1433423100">
+<td data-day-lite="1433423700"><a class="b-simple-bar" style="height: 120px;" href="#day-1433423700">
 <div class="bs-temp">
 <span class="bs-max">+19&deg;</span>
 <span class="bs-min m-media">+9&deg;</span>
@@ -302,20 +302,20 @@ src="//pagead2.googlesyndication.com/pagead/show_ads.js">
 </a>
 </td>
 </tr></tbody><tfoot class="b-simple-foot">
-<tr><td  data-day-lite="1432904700"><a href="#day-1432904700">
+<tr><td  data-day-lite="1432905300"><a href="#day-1432905300">
 <span class="bs-day"><span class="m-media">Завтра</span>
 <span class="m-mediamin">ПТ</span></span>
-<span class="bs-date">29 мая</span></a></td><td class=bs-weekend data-day-lite="1432991100"><a href="#day-1432991100">
+<span class="bs-date">29 мая</span></a></td><td class=bs-weekend data-day-lite="1432991700"><a href="#day-1432991700">
 <span class="bs-day">СБ</span>
-<span class="bs-date">30</span></a></td><td class=bs-weekend data-day-lite="1433077500"><a href="#day-1433077500">
+<span class="bs-date">30</span></a></td><td class=bs-weekend data-day-lite="1433078100"><a href="#day-1433078100">
 <span class="bs-day">ВС</span>
-<span class="bs-date">31</span></a></td><td  data-day-lite="1433163900"><a href="#day-1433163900">
+<span class="bs-date">31</span></a></td><td  data-day-lite="1433164500"><a href="#day-1433164500">
 <span class="bs-day">ПН</span>
-<span class="bs-date">1</span></a></td><td  data-day-lite="1433250300"><a href="#day-1433250300">
+<span class="bs-date">1</span></a></td><td  data-day-lite="1433250900"><a href="#day-1433250900">
 <span class="bs-day">ВТ</span>
-<span class="bs-date">2</span></a></td><td  data-day-lite="1433336700"><a href="#day-1433336700">
+<span class="bs-date">2</span></a></td><td  data-day-lite="1433337300"><a href="#day-1433337300">
 <span class="bs-day">СР</span>
-<span class="bs-date">3</span></a></td><td  data-day-lite="1433423100"><a href="#day-1433423100">
+<span class="bs-date">3</span></a></td><td  data-day-lite="1433423700"><a href="#day-1433423700">
 <span class="bs-day">ЧТ</span>
 <span class="bs-date">4</span></a></td></tr></tfoot></table></div>
 <script type="text/javascript">/* <![CDATA[ */
@@ -342,7 +342,7 @@ src="//pagead2.googlesyndication.com/pagead/show_ads.js">
 })('[data-day-lite]'); 
 /* ]]> */</script>
 <div class="b-future tab-pane" id="tab-future"><table class="b-future__t" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody class="future-top"><tr>
-<th rowspan="2" ><a name="day-1432904700"></a>Пятница
+<th rowspan="2" ><a name="day-1432905300"></a>Пятница
 <span class="future-day">29 мая</span>
 </th></tr><tr><td><div class="future-i"><div class="future-c"><div class="future-aside">
 <div class="future-h">Утром</div></div>
@@ -380,7 +380,7 @@ C 1-3 м/c</div></div></td></tr></tbody><tfoot class="future-detail m-media"><tr
 Восход в 04:47<br/>
 Закат в 21:26</th><td title="Давление">759 мм рт. ст<br/><span title="Ветер"><img class="direction-icon icon-nw" width="8" height="9" alt="CЗ" src="http://img.tyt.by/i/by4/weather/i/1x1.gif" /> CЗ 4-6 м/c</span></td><td title="Давление">759 мм рт. ст<br/><span title="Ветер"><img class="direction-icon icon-nw" width="8" height="9" alt="CЗ" src="http://img.tyt.by/i/by4/weather/i/1x1.gif" /> CЗ 4-6 м/c</span></td><td title="Давление">760 мм рт. ст<br/><span title="Ветер"><img class="direction-icon icon-nw" width="8" height="9" alt="CЗ" src="http://img.tyt.by/i/by4/weather/i/1x1.gif" /> CЗ 3-5 м/c</span></td><td title="Давление">761 мм рт. ст<br/><span title="Ветер"><img class="direction-icon icon-n" width="8" height="9" alt="C" src="http://img.tyt.by/i/by4/weather/i/1x1.gif" /> C 1-3 м/c</span></td></tr></tfoot>
 </table><table class="b-future__t" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody class="future-top"><tr>
-<th rowspan="2" class=bs-weekend><a name="day-1432991100"></a>Суббота
+<th rowspan="2" class=bs-weekend><a name="day-1432991700"></a>Суббота
 <span class="future-day">30 мая</span>
 </th></tr><tr><td><div class="future-i"><div class="future-c"><div class="future-aside">
 <div class="future-h">Утром</div></div>
@@ -418,7 +418,7 @@ CЗ 4-6 м/c</div></div></td></tr></tbody><tfoot class="future-detail m-media"><
 Восход в 04:46<br/>
 Закат в 21:27</th><td title="Давление">761 мм рт. ст<br/><span title="Ветер"><img class="direction-icon icon-ne" width="8" height="9" alt="CВ" src="http://img.tyt.by/i/by4/weather/i/1x1.gif" /> CВ 1-3 м/c</span></td><td title="Давление">759 мм рт. ст<br/><span title="Ветер"><img class="direction-icon icon-w" width="8" height="9" alt="З" src="http://img.tyt.by/i/by4/weather/i/1x1.gif" /> З 2-4 м/c</span></td><td title="Давление">759 мм рт. ст<br/><span title="Ветер"><img class="direction-icon icon-s" width="8" height="9" alt="Ю" src="http://img.tyt.by/i/by4/weather/i/1x1.gif" /> Ю 2-4 м/c</span></td><td title="Давление">760 мм рт. ст<br/><span title="Ветер"><img class="direction-icon icon-nw" width="8" height="9" alt="CЗ" src="http://img.tyt.by/i/by4/weather/i/1x1.gif" /> CЗ 4-6 м/c</span></td></tr></tfoot>
 </table><table class="b-future__t" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody class="future-top"><tr>
-<th rowspan="2" class=bs-weekend><a name="day-1433077500"></a>Воскресенье
+<th rowspan="2" class=bs-weekend><a name="day-1433078100"></a>Воскресенье
 <span class="future-day">31 мая</span>
 </th></tr><tr><td><div class="future-i"><div class="future-c"><div class="future-aside">
 <div class="future-h">Утром</div></div>
@@ -456,7 +456,7 @@ C 1-3 м/c</div></div></td></tr></tbody><tfoot class="future-detail m-media"><tr
 Восход в 04:45<br/>
 Закат в 21:28</th><td title="Давление">763 мм рт. ст<br/><span title="Ветер"><img class="direction-icon icon-n" width="8" height="9" alt="C" src="http://img.tyt.by/i/by4/weather/i/1x1.gif" /> C 1-3 м/c</span></td><td title="Давление">764 мм рт. ст<br/><span title="Ветер"><img class="direction-icon icon-w" width="8" height="9" alt="З" src="http://img.tyt.by/i/by4/weather/i/1x1.gif" /> З 4-6 м/c</span></td><td title="Давление">766 мм рт. ст<br/><span title="Ветер"><img class="direction-icon icon-nw" width="8" height="9" alt="CЗ" src="http://img.tyt.by/i/by4/weather/i/1x1.gif" /> CЗ 2-4 м/c</span></td><td title="Давление">767 мм рт. ст<br/><span title="Ветер"><img class="direction-icon icon-n" width="8" height="9" alt="C" src="http://img.tyt.by/i/by4/weather/i/1x1.gif" /> C 1-3 м/c</span></td></tr></tfoot>
 </table><table class="b-future__t" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody class="future-top"><tr>
-<th rowspan="2" ><a name="day-1433163900"></a>Понедельник
+<th rowspan="2" ><a name="day-1433164500"></a>Понедельник
 <span class="future-day">1 июня</span>
 </th></tr><tr><td><div class="future-i"><div class="future-c"><div class="future-aside">
 <div class="future-h">Утром</div></div>
@@ -494,7 +494,7 @@ C 1-3 м/c</div></div></td></tr></tbody><tfoot class="future-detail m-media"><tr
 Восход в 04:44<br/>
 Закат в 21:30</th><td title="Давление">769 мм рт. ст<br/><span title="Ветер"><img class="direction-icon icon-se" width="8" height="9" alt="ЮВ" src="http://img.tyt.by/i/by4/weather/i/1x1.gif" /> ЮВ 3-5 м/c</span></td><td title="Давление">768 мм рт. ст<br/><span title="Ветер"><img class="direction-icon icon-s" width="8" height="9" alt="Ю" src="http://img.tyt.by/i/by4/weather/i/1x1.gif" /> Ю 1-3 м/c</span></td><td title="Давление">767 мм рт. ст<br/><span title="Ветер"><img class="direction-icon icon-se" width="8" height="9" alt="ЮВ" src="http://img.tyt.by/i/by4/weather/i/1x1.gif" /> ЮВ 1-3 м/c</span></td><td title="Давление">767 мм рт. ст<br/><span title="Ветер"><img class="direction-icon icon-e" width="8" height="9" alt="В" src="http://img.tyt.by/i/by4/weather/i/1x1.gif" /> В 1-3 м/c</span></td></tr></tfoot>
 </table><table class="b-future__t" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody class="future-top"><tr>
-<th rowspan="2" ><a name="day-1433250300"></a>Вторник
+<th rowspan="2" ><a name="day-1433250900"></a>Вторник
 <span class="future-day">2 июня</span>
 </th></tr><tr><td><div class="future-i"><div class="future-c"><div class="future-aside">
 <div class="future-h">Утром</div></div>
@@ -532,7 +532,7 @@ C 1-3 м/c</div></div></td></tr></tbody><tfoot class="future-detail m-media"><tr
 Восход в 04:43<br/>
 Закат в 21:31</th><td title="Давление">767 мм рт. ст<br/><span title="Ветер"><img class="direction-icon icon-e" width="8" height="9" alt="В" src="http://img.tyt.by/i/by4/weather/i/1x1.gif" /> В 2-4 м/c</span></td><td title="Давление">766 мм рт. ст<br/><span title="Ветер"><img class="direction-icon icon-se" width="8" height="9" alt="ЮВ" src="http://img.tyt.by/i/by4/weather/i/1x1.gif" /> ЮВ 2-4 м/c</span></td><td title="Давление">765 мм рт. ст<br/><span title="Ветер"><img class="direction-icon icon-e" width="8" height="9" alt="В" src="http://img.tyt.by/i/by4/weather/i/1x1.gif" /> В 1-3 м/c</span></td><td title="Давление">744 мм рт. ст<br/><span title="Ветер"><img class="direction-icon icon-w" width="8" height="9" alt="З-С-З" src="http://img.tyt.by/i/by4/weather/i/1x1.gif" /> З-С-З 4 м/c</span></td></tr></tfoot>
 </table><table class="b-future__t" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody class="future-top"><tr>
-<th rowspan="2" ><a name="day-1433336700"></a>Среда
+<th rowspan="2" ><a name="day-1433337300"></a>Среда
 <span class="future-day">3 июня</span>
 </th></tr><tr><td> </td><td><div class="future-i"><div class="future-c"><div class="future-aside">
 <div class="future-h">Днем</div></div>
@@ -554,7 +554,7 @@ C 1-3 м/c</div></div></td></tr></tbody><tfoot class="future-detail m-media"><tr
 Восход в 04:43<br/>
 Закат в 21:33</th><td> </td><td title="Давление">745 мм рт. ст<br/><span title="Ветер"><img class="direction-icon icon-w" width="8" height="9" alt="З-С-З" src="http://img.tyt.by/i/by4/weather/i/1x1.gif" /> З-С-З 7 м/c</span></td><td> </td><td title="Давление">748 мм рт. ст<br/><span title="Ветер"><img class="direction-icon icon-w" width="8" height="9" alt="З-С-З" src="http://img.tyt.by/i/by4/weather/i/1x1.gif" /> З-С-З 4 м/c</span></td></tr></tfoot>
 </table><table class="b-future__t" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody class="future-top"><tr>
-<th rowspan="2" ><a name="day-1433423100"></a>Четверг
+<th rowspan="2" ><a name="day-1433423700"></a>Четверг
 <span class="future-day">4 июня</span>
 </th></tr><tr><td> </td><td><div class="future-i"><div class="future-c"><div class="future-aside">
 <div class="future-h">Днем</div></div>
@@ -595,7 +595,7 @@ if(sHasch) {
 }
 /* ]]> */</script>
 </div></div>
-<div class="outer"><div class="b-section"><!--Resource [begin] --><link rel="stylesheet" type="text/css" href="http://www.tut.by/css/by4/navs-ads~r18450.css" /><div id="common-resource" class="b-bottom-navigation"><ul class="bottom-navigation__ul"><li id="r3547parent"><a id="r3547com" href="http://www.tut.by/resource/?id=3547#ua:down_menu_pogoda.tut.by~1" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=3547#ua:down_menu_pogoda.tut.by~1" data-url-2="http://office.by/?utm_source=tut.by&amp;utm_medium=cpc&amp;utm_campaign=nepereplati#ua:down_menu_pogoda.tut.by~1">Office.by:не переплати</a></li><li id="r3666parent"><a id="r3666com" href="http://www.tut.by/resource/?id=3666#ua:down_menu_pogoda.tut.by~2" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=3666#ua:down_menu_pogoda.tut.by~2" data-url-2="http://office.by/items.html?cid=270&amp;utm_source=tut.by&amp;utm_medium=cpc&amp;utm_campaign=mfu569000#ua:down_menu_pogoda.tut.by~2">Принтеры, МФУ– 568 750!</a></li><li id="r3728parent"><a id="r3728com" href="http://www.tut.by/resource/?id=3728" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=3728" data-url-2="http://www.mitsubishi-motors.by/for-owners/news/novyij-avtoczentr-novyij-uroven-servisa!.html?utm_source=avtotut&amp;utm_medium=news&amp;utm_campaign=service">Автосервис Mitsubishi</a></li><li id="r3674parent"><a id="r3674com" href="http://www.tut.by/resource/?id=3674" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=3674" data-url-2="https://e-pay.by/?tutby">Плати за квартиру и телефон онлайн&nbsp;без комиссий</a></li><li id="r3734parent"><a id="r3734com" href="http://www.tut.by/resource/?id=3734" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=3734" data-url-2="http://www.toptour.by/content/tours/391/11823/">Греция! Отдых! Цены</a></li></ul><ul class="bottom-navigation__ul"><li id="r3739parent"><a id="r3739com" href="http://www.tut.by/resource/?id=3739#ua:down_menu_pogoda.tut.by~6" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=3739#ua:down_menu_pogoda.tut.by~6" data-url-2="http://tourism.tut.by/tours/turkey#ua:down_menu_pogoda.tut.by~6">Отдых в Турции 2015</a></li><li id="r3449parent"><a id="r3449com" href="http://www.tut.by/resource/?id=3449#ua:down_menu_pogoda.tut.by~7" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=3449#ua:down_menu_pogoda.tut.by~7" data-url-2="http://avia.tut.by/#ua:down_menu_pogoda.tut.by~7">Авиабилеты</a></li><li id="r3568parent"><a id="r3568com" href="http://www.tut.by/resource/?id=3568#ua:down_menu_pogoda.tut.by~8" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=3568#ua:down_menu_pogoda.tut.by~8" data-url-2="http://plati.tut.by/#ua:down_menu_pogoda.tut.by~8">Быстрые онлайн-платежи</a></li><li id="r1928parent"><a id="r1928com" href="http://second.by" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=1928" data-url-2="http://second.by">Second.by</a></li><li id="r1898parent"><a id="r1898com" href="http://www.tut.by/" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=1898#ua:down_menu_pogoda.tut.by~9" data-url-2="http://www.tut.by/#ua:down_menu_pogoda.tut.by~9">TUT.BY</a></li></ul><ul class="bottom-navigation__ul"><li id="r2475parent"><a id="r2475com" href="http://auto.tut.by/catalog/zapchasti_aksessuary/magazin/?rr=1" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=2475#ua:down_menu_pogoda.tut.by~9" data-url-2="http://auto.tut.by/catalog/zapchasti_aksessuary/magazin/?rr=1#ua:down_menu_pogoda.tut.by~9">Автозапчасти</a></li><li id="r2872parent"><a id="r2872com" href="http://realty.tut.by/catalog/agentstva_nedvizhimosti/zhilaya/?rr=1" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=2872#ua:down_menu_pogoda.tut.by~9" data-url-2="http://realty.tut.by/catalog/agentstva_nedvizhimosti/zhilaya/?rr=1#ua:down_menu_pogoda.tut.by~9">Агентства недвижимости</a></li><li id="r75parent"><a id="r75com" href="http://afisha.tut.by/" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=75#ua:down_menu_pogoda.tut.by~9" data-url-2="http://afisha.tut.by/#ua:down_menu_pogoda.tut.by~9">Афиша Минска</a></li><li id="r3676parent"><a id="r3676com" href="http://catalog.tut.by/" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=3676#ua:down_menu_pogoda.tut.by~9" data-url-2="http://catalog.tut.by/#ua:down_menu_pogoda.tut.by~9">Каталог компаний</a></li><li id="r2873parent"><a id="r2873com" href="http://lady.tut.by/catalog/tourizm/?rr=1" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=2873#ua:down_menu_pogoda.tut.by~9" data-url-2="http://lady.tut.by/catalog/tourizm/?rr=1#ua:down_menu_pogoda.tut.by~9">Коттеджи и усадьбы</a></li></ul><ul class="bottom-navigation__ul"><li id="r2871parent"><a id="r2871com" href="http://lady.tut.by/catalog/obrazovanie/inyaz/?rr=1" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=2871#ua:down_menu_pogoda.tut.by~9" data-url-2="http://lady.tut.by/catalog/obrazovanie/inyaz/?rr=1#ua:down_menu_pogoda.tut.by~9">Курсы языков</a></li><li id="r2473parent"><a id="r2473com" href="http://lady.tut.by/catalog/magaziny/" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=2473#ua:down_menu_pogoda.tut.by~9" data-url-2="http://lady.tut.by/catalog/magaziny/#ua:down_menu_pogoda.tut.by~9">Магазины</a></li><li id="r3678parent"><a id="r3678com" href="http://kupi.tut.by" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=3678#ua:down_menu_pogoda.tut.by~9" data-url-2="http://kupi.tut.by#ua:down_menu_pogoda.tut.by~9">Магазины</a></li><li id="r185parent"><a id="r185com" href="http://news.tut.by/" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=185#ua:down_menu_pogoda.tut.by~9" data-url-2="http://news.tut.by/#ua:down_menu_pogoda.tut.by~9">Новости</a></li><li id="r1802parent"><a id="r1802com" href="http://kino.tut.by/" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=1802#ua:down_menu_pogoda.tut.by~9" data-url-2="http://kino.tut.by/#ua:down_menu_pogoda.tut.by~9">Онлайн-кинотеатр</a></li></ul><ul class="bottom-navigation__ul"><li id="r3462parent"><a id="r3462com" href="http://probusiness.by/" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=3462" data-url-2="http://probusiness.by/">Про бизнес.</a></li><li id="r12parent"><a id="r12com" href="http://jobs.tut.by/" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=12#ua:down_menu_pogoda.tut.by~9" data-url-2="http://jobs.tut.by/#ua:down_menu_pogoda.tut.by~9">Работа</a></li><li id="r683parent"><a id="r683com" href="http://rebenok.by/" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=683" data-url-2="http://rebenok.by/">Ребёнок.by</a></li><li id="r2874parent"><a id="r2874com" href="http://sport.tut.by/catalog/sport_magaziny/sportivnoe_snariazenie/?rr=1" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=2874#ua:down_menu_pogoda.tut.by~9" data-url-2="http://sport.tut.by/catalog/sport_magaziny/sportivnoe_snariazenie/?rr=1#ua:down_menu_pogoda.tut.by~9">Спортивное снаряжение</a></li><li id="r77parent"><a id="r77com" href="http://vashdom.tut.by/catalog/" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=77#ua:down_menu_pogoda.tut.by~9" data-url-2="http://vashdom.tut.by/catalog/#ua:down_menu_pogoda.tut.by~9">Строительство и ремонт</a></li></ul></div><script type="text/javascript">/* <![CDATA[ */
+<div class="outer"><div class="b-section"><!--Resource [begin] --><link rel="stylesheet" type="text/css" href="http://www.tut.by/css/by4/navs-ads~r18450.css" /><div id="common-resource" class="b-bottom-navigation"><ul class="bottom-navigation__ul"><li id="r3695parent"><a id="r3695com" href="http://www.tut.by/resource/?id=3695#ua:down_menu_pogoda.tut.by~1" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=3695#ua:down_menu_pogoda.tut.by~1" data-url-2="http://office.by/items.html?itemid=867&amp;utm_source=tut.by&amp;utm_medium=cpc&amp;utm_campaign=xp38500#ua:down_menu_pogoda.tut.by~1">Бумага А4 – 38 500 руб.</a></li><li id="r3666parent"><a id="r3666com" href="http://www.tut.by/resource/?id=3666#ua:down_menu_pogoda.tut.by~2" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=3666#ua:down_menu_pogoda.tut.by~2" data-url-2="http://office.by/items.html?cid=270&amp;utm_source=tut.by&amp;utm_medium=cpc&amp;utm_campaign=mfu569000#ua:down_menu_pogoda.tut.by~2">Принтеры, МФУ– 568 750!</a></li><li id="r3728parent"><a id="r3728com" href="http://www.tut.by/resource/?id=3728" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=3728" data-url-2="http://www.mitsubishi-motors.by/for-owners/news/novyij-avtoczentr-novyij-uroven-servisa!.html?utm_source=avtotut&amp;utm_medium=news&amp;utm_campaign=service">Автосервис Mitsubishi</a></li><li id="r3674parent"><a id="r3674com" href="http://www.tut.by/resource/?id=3674" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=3674" data-url-2="https://e-pay.by/?tutby">Плати за квартиру и телефон онлайн&nbsp;без комиссий</a></li><li id="r3737parent"><a id="r3737com" href="http://www.tut.by/resource/?id=3737" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=3737" data-url-2="http://www.toptour.by/content/tours/406/11824/">Турция! Отдых! Цены!</a></li></ul><ul class="bottom-navigation__ul"><li id="r3739parent"><a id="r3739com" href="http://www.tut.by/resource/?id=3739#ua:down_menu_pogoda.tut.by~6" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=3739#ua:down_menu_pogoda.tut.by~6" data-url-2="http://tourism.tut.by/tours/turkey#ua:down_menu_pogoda.tut.by~6">Отдых в Турции 2015</a></li><li id="r3449parent"><a id="r3449com" href="http://www.tut.by/resource/?id=3449#ua:down_menu_pogoda.tut.by~7" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=3449#ua:down_menu_pogoda.tut.by~7" data-url-2="http://avia.tut.by/#ua:down_menu_pogoda.tut.by~7">Авиабилеты</a></li><li id="r3568parent"><a id="r3568com" href="http://www.tut.by/resource/?id=3568#ua:down_menu_pogoda.tut.by~8" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=3568#ua:down_menu_pogoda.tut.by~8" data-url-2="http://plati.tut.by/#ua:down_menu_pogoda.tut.by~8">Быстрые онлайн-платежи</a></li><li id="r1928parent"><a id="r1928com" href="http://second.by" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=1928" data-url-2="http://second.by">Second.by</a></li><li id="r1898parent"><a id="r1898com" href="http://www.tut.by/" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=1898#ua:down_menu_pogoda.tut.by~9" data-url-2="http://www.tut.by/#ua:down_menu_pogoda.tut.by~9">TUT.BY</a></li></ul><ul class="bottom-navigation__ul"><li id="r2475parent"><a id="r2475com" href="http://auto.tut.by/catalog/zapchasti_aksessuary/magazin/?rr=1" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=2475#ua:down_menu_pogoda.tut.by~9" data-url-2="http://auto.tut.by/catalog/zapchasti_aksessuary/magazin/?rr=1#ua:down_menu_pogoda.tut.by~9">Автозапчасти</a></li><li id="r2872parent"><a id="r2872com" href="http://realty.tut.by/catalog/agentstva_nedvizhimosti/zhilaya/?rr=1" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=2872#ua:down_menu_pogoda.tut.by~9" data-url-2="http://realty.tut.by/catalog/agentstva_nedvizhimosti/zhilaya/?rr=1#ua:down_menu_pogoda.tut.by~9">Агентства недвижимости</a></li><li id="r75parent"><a id="r75com" href="http://afisha.tut.by/" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=75#ua:down_menu_pogoda.tut.by~9" data-url-2="http://afisha.tut.by/#ua:down_menu_pogoda.tut.by~9">Афиша Минска</a></li><li id="r3676parent"><a id="r3676com" href="http://catalog.tut.by/" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=3676#ua:down_menu_pogoda.tut.by~9" data-url-2="http://catalog.tut.by/#ua:down_menu_pogoda.tut.by~9">Каталог компаний</a></li><li id="r2873parent"><a id="r2873com" href="http://lady.tut.by/catalog/tourizm/?rr=1" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=2873#ua:down_menu_pogoda.tut.by~9" data-url-2="http://lady.tut.by/catalog/tourizm/?rr=1#ua:down_menu_pogoda.tut.by~9">Коттеджи и усадьбы</a></li></ul><ul class="bottom-navigation__ul"><li id="r2871parent"><a id="r2871com" href="http://lady.tut.by/catalog/obrazovanie/inyaz/?rr=1" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=2871#ua:down_menu_pogoda.tut.by~9" data-url-2="http://lady.tut.by/catalog/obrazovanie/inyaz/?rr=1#ua:down_menu_pogoda.tut.by~9">Курсы языков</a></li><li id="r2473parent"><a id="r2473com" href="http://lady.tut.by/catalog/magaziny/" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=2473#ua:down_menu_pogoda.tut.by~9" data-url-2="http://lady.tut.by/catalog/magaziny/#ua:down_menu_pogoda.tut.by~9">Магазины</a></li><li id="r3678parent"><a id="r3678com" href="http://kupi.tut.by" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=3678#ua:down_menu_pogoda.tut.by~9" data-url-2="http://kupi.tut.by#ua:down_menu_pogoda.tut.by~9">Магазины</a></li><li id="r185parent"><a id="r185com" href="http://news.tut.by/" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=185#ua:down_menu_pogoda.tut.by~9" data-url-2="http://news.tut.by/#ua:down_menu_pogoda.tut.by~9">Новости</a></li><li id="r1802parent"><a id="r1802com" href="http://kino.tut.by/" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=1802#ua:down_menu_pogoda.tut.by~9" data-url-2="http://kino.tut.by/#ua:down_menu_pogoda.tut.by~9">Онлайн-кинотеатр</a></li></ul><ul class="bottom-navigation__ul"><li id="r3462parent"><a id="r3462com" href="http://probusiness.by/" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=3462" data-url-2="http://probusiness.by/">Про бизнес.</a></li><li id="r12parent"><a id="r12com" href="http://jobs.tut.by/" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=12#ua:down_menu_pogoda.tut.by~9" data-url-2="http://jobs.tut.by/#ua:down_menu_pogoda.tut.by~9">Работа</a></li><li id="r683parent"><a id="r683com" href="http://rebenok.by/" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=683" data-url-2="http://rebenok.by/">Ребёнок.by</a></li><li id="r2874parent"><a id="r2874com" href="http://sport.tut.by/catalog/sport_magaziny/sportivnoe_snariazenie/?rr=1" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=2874#ua:down_menu_pogoda.tut.by~9" data-url-2="http://sport.tut.by/catalog/sport_magaziny/sportivnoe_snariazenie/?rr=1#ua:down_menu_pogoda.tut.by~9">Спортивное снаряжение</a></li><li id="r77parent"><a id="r77com" href="http://vashdom.tut.by/catalog/" target="_blank" rel="nofollow" data-url-1="http://www.tut.by/resource/?id=77#ua:down_menu_pogoda.tut.by~9" data-url-2="http://vashdom.tut.by/catalog/#ua:down_menu_pogoda.tut.by~9">Строительство и ремонт</a></li></ul></div><script type="text/javascript">/* <![CDATA[ */
 try { (function(){ this && (function() {
 for(var fn=function() {
 	if(this.getAttribute("data-url-2")) {
@@ -628,7 +628,7 @@ $("#footer a[data-routed=1]").each(function(){
 	el.attr("href",el.attr("href").toString().replace(/([?&]l=)[^&#]+/,'$1'+src));
 });
 </script></div></div>
-<!-- CODE[28.05.2015 12:55]: pogoda.tut.by, footer -->
+<!-- CODE[28.05.2015 12:42]: pogoda.tut.by, footer -->
 <!--Google counter start--><script type="text/javascript">
 /* var _gaq = _gaq || []; var aGAAccounts=[]; */
 var aUAAccounts=[['','UA-285326-19','tut.by'],['all','UA-285326-30','tut.by']];
@@ -641,4 +641,4 @@ var aUAAccounts=[['','UA-285326-19','tut.by'],['all','UA-285326-30','tut.by']];
 	s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
 	if (w.opera == "[object Opera]") {d.addEventListener("DOMContentLoaded", f, false);} else { f(); }
 })(document, window, "yandex_metrika_callbacks");</script><noscript><div><img src="//mc.yandex.ru/watch/20586112" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika counter -->
-</body></html><!-- 0.0667 sec - 127.0.0.1 -->
+</body></html><!-- 0.1582 sec - 127.0.0.1 -->
