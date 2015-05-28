@@ -148,6 +148,6 @@ static void __exit exit_simpleproc(void){
 
 module_init(init_simpleproc);
 module_exit(exit_simpleproc);
-MODULE_AUTHOR("roschin");
+MODULE_AUTHOR("roschin_roman");
 MODULE_LICENSE("GPL v3");
 MODULE_DESCRIPTION("A simple calculate module");
