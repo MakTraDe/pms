@@ -11,7 +11,7 @@ struct timer_list timer;
 
 static void hello(unsigned long arg) 
 {
-	printk(KERN_INFO "hello!\n");
+	printk(KERN_INFO "hello world!\n");
 	timer.expires = jiffies + HZ*delay;
 	add_timer (&timer);
 }
