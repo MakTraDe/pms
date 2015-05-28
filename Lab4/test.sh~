@@ -3,7 +3,7 @@ op[0]='-'
 op[1]='+'
 op[2]='*'
 op[3]='/'
-for i in {0..2}
+for i in {0..3}
 do
 	as=$RANDOM
 	bs=$RANDOM
